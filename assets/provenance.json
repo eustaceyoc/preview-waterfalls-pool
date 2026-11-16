@@ -1,0 +1,61 @@
+{
+  "note": "Editorial stock photographs used for mood only. None shows Waterfalls Pool Services LLC, its owner, staff, customers, equipment or completed work.",
+  "license": {
+    "name": "Pexels License",
+    "url": "https://www.pexels.com/license/"
+  },
+  "photos": [
+    {
+      "file": "assets/images/tropical-edge.jpg",
+      "placement": "Hero blob",
+      "source": "Pexels",
+      "photoId": 4869084,
+      "title": "Plants on Poolside",
+      "photographer": "ROMAN ODINTSOV",
+      "page": "https://www.pexels.com/photo/plants-on-poolside-4869084/",
+      "originalFile": "https://images.pexels.com/photos/4869084/pexels-photo-4869084.jpeg",
+      "derivation": "Resized to 1400x933 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/aerial-pool.jpg",
+      "placement": "Hero circle and request panel",
+      "source": "Pexels",
+      "photoId": 1746876,
+      "title": "Swimming Pool",
+      "photographer": "ERIC MUFASA",
+      "page": "https://www.pexels.com/photo/swimming-pool-1746876/",
+      "originalFile": "https://images.pexels.com/photos/1746876/pexels-photo-1746876.jpeg",
+      "derivation": "Resized to 900x659 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/garden-pool.jpg",
+      "placement": "Repairs & extras section",
+      "source": "Pexels",
+      "photoId": 11802407,
+      "title": "High Angle View of a Garden",
+      "photographer": "Keegan Checks",
+      "page": "https://www.pexels.com/photo/high-angle-view-of-a-garden-11802407/",
+      "originalFile": "https://images.pexels.com/photos/11802407/pexels-photo-11802407.jpeg",
+      "derivation": "Resized to 1200x1800 and re-compressed as JPEG. No other edits."
+    }
+  ],
+  "fonts": [
+    {
+      "family": "DM Serif Display",
+      "files": [
+        "assets/fonts/dm-serif-display-italic-400.woff2",
+        "assets/fonts/dm-serif-display-normal-400.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "family": "Nunito Sans",
+      "files": [
+        "assets/fonts/nunito-sans-normal-400_800.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    }
+  ]
+}
